@@ -1,0 +1,320 @@
+<Community_Basic>
+基本的なパラメーターを設定するプラグインです。
+<MadeWithMv>
+メイン画面へ進む前に、"Made with MV"のスプラッシュ画面もしくはカスタマイズされたスプラッシュ画面を表示します。
+<AddBarsToOptionsScene>
+オプション画面にバーを追加します
+<BattleActorFaceVisibility>
+戦闘中顔グラフィック表示プラグイン
+<BattleBalanceCustom>
+【MPP ver.2.1】デフォルトで変更できない戦闘バランスを調整します。
+<CallCommonEventByName>
+【MPP ver.1.1】コモンイベントを名前で呼び出します。
+<ChangeActorImageSystem>
+アクターの画像を変えます
+<Chikuwa>
+「どのデータをロードしても共有した変数を読み込める」プラグイン
+<ConditionalItem>
+アイテムやスキルに、使用対象の条件を設定します。
+<CustomCurrencyUnit>
+通過単位を、任意の文字列に変更します。
+<DTextPicture>
+動的文字列ピクチャ生成プラグイン
+<DetailedShop>
+Upgrades the shop to show more options and graphics.
+ *
+<DisplayTargetStates>
+攻撃対象選択時、対象の全ステートのアイコンと解除までのターン数を表示します。
+<EasingPicture>
+ピクチャーの移動パターンを増やします。
+<EnemyBook>
+モンスター図鑑です。敵キャラの詳細なステータスを表示します。
+<EnemySlideIn>
+プレイヤーだけでなく敵もスライドインするようになります。
+<GraphicalDesignMode>
+GUI画面デザインプラグイン
+パラメータを変更したら「プロジェクトの保存」（Ctrl+S）
+<HIME_LargeChoices>
+v1.2 - Combines multiple show choice commands into a single,
+large list.
+<HTN_CrossFadeBgm>
+BGMをクロスフェード
+<HopelessBench>
+ver1.00ベンチを温めるためのプラグインです。
+<IncreaseSlipDamageByTurn>
+スリップダメージ率やHP再生率をターンごとに増減します
+<ItemBook>
+アイテム図鑑です。アイテムの詳細なステータスを表示します。
+<JK_DirectShop>
+allows for direct buy OR direct sell of items at a shop.
+<Jay_Dualtechs>
+Adds functionality for multitech skills.
+ *
+ *
+<Kath_GameOver>
+Change what happens when the party dies or Game Over is called.
+<KillBonus>
+撃破ボーナスプラグイン
+<Ku_Base>
+下記パラメータによる項目を設定できます。
+また、命中率と回避率の計算式を独立から総合に変更します。
+<KuishibariState>
+「HPが2以上ある状態でダメージを受けた場合、一定確率でHP1残る」ステートを作成します。
+<MKR_InstantDeath>
+(v1.1.1) 即死ステートを実装します。
+<MPI_QuickPlayAudio>
+一部実行条件下において音声再生が遅い問題を解消します。
+<MPI_ValueMonitor>
+変数とスイッチを監視するウインドウを表示します。
+<MPP_ScrollBar>
+【ver.1.1】ウィンドウにスクロールバーを追加します。
+<MPP_SimpleTouch3>
+【ver.3.3】マウスやタッチ操作を変更します。
+<MPP_TouchCommand>
+【ver.1.0】左クリック（タッチ）時の情報を取得するイベントコマンドを追加します。
+<Manosasayaki_AfterCounter>
+攻撃を受けた後に、スキルを使います。
+条件式や反撃時の行動も設定できます。
+<Manosasayaki_CriticalHook>
+クリティカル時にステートを付与することで、
+ダメージ式などを疑似的に変更できます。
+<MessageSkip>
+メッセージスキッププラグイン
+<Moogle_X_PassiveSkill>
+v1.14 Adds passive skills functionality to actors.
+<MpiPictureAlignment>
+ピクチャの表示位置を、右寄せや左寄せなどで指定するプラグインコマンドを提供します。
+<OmitTarget>
+戦闘画面でターゲット選択時、対象が一つの場合は省略します。
+<ParamTransfer>
+パラメータ変換プラグイン
+<PictureCallCommon>
+ピクチャのボタン化プラグイン
+<PictureZIndex>
+ピクチャのZ-Index（重なり順序）を設定します。
+<PromptlyPopup>
+複数攻撃時のポップアップを一括表示します
+<Rubi_riru>
+ルビ振りを行います。用語登録によるオートルビ振り機能つき。
+<SSEP_BattleSpeedUp_v2>
+[ver2.01] 戦闘速度を上げるプラグインです。YanflyEngine対応。
+利用時は、必ずYanflyEngineの後に読み込んでください。
+<SceneGlossary>
+ゲーム内用語辞典プラグイン
+<SceneSoundTest>
+サウンドテストプラグイン
+<SideEffectSkill>
+スキルの副作用プラグイン
+<SkipAlreadyReadMessage>
+既読メッセージスキップの機能を提供します。
+<SupponShopStock>
+在庫システムを有するお店を設定します。version 1.03
+<SwitchTitleImage>
+複数のタイトル画像を切り換えて表示します。
+<TitleCommandPosition>
+タイトルコマンドウィンドウの位置を変更します。
+<Torigoya_BalloonInBattle>
+戦闘中セリフ表示さん for MV
+<Torigoya_QuickSkill>
+選択するとターンを消費せずに即発動するスキルを追加します。
+<WeaponSkill>
+武器ごとに通常攻撃のスキルIDを変更します。
+<backlog>
+バックログ及びメッセージ周りの補填関係
+<drawSkillMpAndTp>
+スキルのMPコストとTPコストを両方表示することができます
+<plugin_list>
+入れてあるプラグインの一覧を出力します。
+<tintParallax>
+遠景の色調を変更するプラグインです
+<minRPG_EditSaveDataNumEtc>
+セーブデータ数変更＋同名エネミー識別子を削除するプラグイン
+<111_PartyCommandSkip>
+戦闘の戦う・逃げるを飛ばして戦闘へ
+<ALT_StandingPictureMove>
+パラメータに"立ち絵"として予め設定したピクチャを、プラグインコマンドで動かします。立ち絵は16枚まで登録可能。
+<BattleSkip_riru>
+テスト戦闘中にAキーを押すだけで瞬時に勝利させるスクリプトです
+<Conditional_branch_in_Partymember>
+条件分岐：パーティメンバーの誰かが……ＭＶ 1.00
+ヘルプに使い方が載っています。
+<CustomizeConfigItem>
+オプション任意項目作成プラグイン
+<DestinationWindow>
+行動目標ウィンドウプラグイン
+<EquipInfoAllView>
+ショップで装備品を購入する際、詳細な情報を
+表示することができます
+<ExtendBuffAndDebuff>
+スキル/アイテムの能力値強化/弱体を3段階以上に設定可能
+<FTKR_CSS_BattleStatus>
+v1.2.0 バトル画面のステータス表示を変更するプラグイン
+<FTKR_CSS_CustomizeBattleResults>
+v1.0.2 カスタム可能な戦闘結果画面を表示する
+<FTKR_CSS_DetailedStatus>
+v1.0.2 詳細ステータス画面の表示内容を変更するプラグイン
+<FTKR_CSS_EquipStatus>
+v1.0.0 装備画面のステータスレイアウトを変更する
+<FTKR_CSS_MenuStatus>
+v1.0.0 メニュー画面のステータス表示を変更するプラグイン
+<FTKR_CSS_SkillStatus>
+v1.0.1 スキル画面のステータス表示を変更するプラグイン
+<FTKR_CustomSimpleActorStatus>
+v2.2.0 アクターのステータス表示を変更するプラグイン
+<FTKR_ItemCategoryFixed>
+v1.0.1 アイテムボックスのカテゴリ選択を無くす
+<FTKR_DisplayRegenerateMessage>
+v1.1.0 HP再生値をバトルログに表示するプラグイン
+<FTKR_ExVariablesChange>
+v1.2.2 変数の操作を拡張するプラグイン
+<FTKR_ItemSelfVariables>
+v1.1.3 アイテムやスキルにセルフ変数を実装するプラグイン
+<FTKR_OriginalSceneWindow>
+v1.2.1 オリジナルのシーンやウィンドウを作成する
+<HelloMyDearFriends>
+戦闘開始時の出現メッセージを複数形に対応させます
+<Liquid_EnemyEnmity>
+v1.2 (Requires YEP_BattleEngineCore.js and YEP_BattleCoreAI.js) Basic functions are
+ * added to the Battle Engine and AI Engine to support Enemy Enmity and MMO styled aggro.
+ * 
+ *
+<MPP_ChoiceEX>
+【ver.3.5】選択肢の機能拡張
+<MPP_MessageEX>
+【ver.1.2】文章表示の機能を拡張したり表示の演出を追加します。
+<Manosasayaki_CriticalHook>
+クリティカル時にステートを付与することで、
+ダメージ式などを疑似的に変更できます。
+<Manosasayaki_EnemyInformationWindow>
+攻撃対象を選ぶ段階で相手の弱点を表示します。
+また、スキル選択時にエネミーの上に弱点ポップアップを表示することもできます。
+<MasterVolumeOption>
+マスターボリューム設定プラグイン
+<MessageWindowHidden>
+メッセージウィンドウ一時消去プラグイン
+<MrTS_PartyManager>
+Allows to check and change your party.
+<NobleMushroom>
+ノベルゲーム総合プラグイン
+<Otiba_riru>
+落ち葉を降らせます
+<ParallelParty>
+並列パーティプラグイン
+<RecollectionMode>
+回想モード機能を追加します。
+<RecollectionMode_save_switch_patch>
+セーブデータに、その時点のスイッチ情報を保存することができます。
+<RecollectionMode_through_command_cg_only_patch>
+RecollectionModeのパッチです。タイトルから直接CG閲覧に遷移します
+<RecollectionMode_through_command_patch>
+RecollectionModeのパッチです。タイトルから直接回想閲覧に遷移します
+<ResidentWindow>
+マップに常駐するステータス＋所持金ウィンドウを生成します。
+<SNZ_DisabledItemOpacity>
+いわゆる「グレー表示」の不透明度を変えます。
+<Saba_SortOrder>
+アイテム、武器防具、スキルの並び順をメモ欄で指定できるようになります。
+<SpecialExhaustSkill>
+すべてのHPまたはMPを使って強力な攻撃を行うスキルが作成可能
+<TMAttackSkillEx>
+攻撃コマンドや防御コマンドで使用するスキルをアクターごとに設定します。
+<TMAutoNewGame>
+起動時に自動ではじめからゲームを開始します。
+Web用ミニゲームなど、タイトル画面が不要な場合などにどうぞ。
+<TMBackButton>
+メニューシーンにタップ操作用の戻るボタンを表示します。
+<TMBattleCommandEx>
+バトルシーンのアクターコマンドサイズを変更します。
+<TMBattlerEx>
+エネミーに遠近感や息づかいの表現を追加します。
+<TMBitmapEx>
+角丸の矩形や星を描画する機能を追加します。
+各種ゲージの形状を角丸矩形に自動変更する機能もあります。
+<TMDescriptionEx>
+アイテムやスキルの詳細情報を表示する機能を追加します。
+<TMEnemyActionEx>
+敵キャラの行動パターン決定処理を修正します。
+<TMEquipSlotEx>
+アクターごとに部位設定を自由に変更できるようにします。
+<TMEventItemEx>
+アイテム選択の処理にヘルプウィンドウを追加し、
+個数表示の有無と表示行数をアイテムタイプごとに設定できます。
+<TMFutureSight>
+敵キャラの次の行動のヒントなどをテキストで表示します。
+より戦略的なターンバトルが実現できるかもしれません。
+<TMGreedShop>
+お金以外にアイテムも要求されるショップ機能を追加します。
+<TMItemCategoryEx>
+アイテムカテゴリの追加、削除をおこないます。
+<TMItemRestriction>
+アイテムの対象アクターに関する制約を追加します。
+<TMLinkCredit>
+タイトル画面にクレジットコマンドを追加します。
+制作スタッフの紹介をWebサイトへのリンク付きで表示できます。
+<TMMagicSlot>
+通常の装備とは別に魔法を記憶するシステムを追加します。
+<TMMaxLevel>
+レベル上限をゲーム中に増やすことができます。
+<TMMenuLabel>
+メニューシーンに変数の値を表示します。
+歩数や戦闘回数などを表示することもできます。
+<TMNamePop>
+イベントの頭上に文字列を表示する機能を追加します。
+<TMOmitSkillCategory>
+スキルシーンからカテゴリ選択の処理を除外します。
+<TMPassiveSkill>
+使用せずとも常に効果が発動しつづけるスキルを追加します。
+<TMPoyoWindow>
+一部ウィンドウのオープン演出をぽよっとさせます。
+<TMRandomName>
+名前や二つ名をランダムなものに変更する機能を追加します。
+<TMSimpleWindow>
+ウィンドウをピクチャ機能に近い感覚で使えるようにします。
+<TMSkillCostEx>
+MPやTPの代わりにHPやアイテムを消費するスキルを
+設定できるようになります。
+<TMSpeedFix>
+バトルの行動順からランダムな要素を除外します。
+逃走成功率を固定値にするおまけ機能付きです。
+<TMStarSprites>
+クリック（タップ）操作に合わせて星がはじけます、
+プラグインコマンドで好きな場所に星を表示することもできます。
+<TMStatusMenuEx>
+ステータスシーンに表示するパラメータを追加します。
+<TMTextEscape>
+文章の表示に使える制御文字を追加します。
+<TMTimerEx>
+タイマー表示を秒単位からミリ秒単位に変更します。
+<TMTopFix>
+パーティの先頭にいるアクターの並び替えを禁止します。
+<TMTpReset>
+戦闘開始時の初期ＴＰを調整します。
+<TMWindowCaption>
+ウィンドウの左上にキャプションを追加します。
+制御文字を使えばキャプションの位置を左上以外に変更できます。
+<TN_LightSaveData_Map>
+マップ上のイベントの情報をセーブ対象から外して、セーブファイルを軽量化します。
+<TYA_EnemyHPGauge>
+敵ターゲットウィンドウにＨＰゲージを表示させます。
+特定の敵のゲージを非表示にすることもできます。
+<UTA_CommonSave>
+共有のセーブデータを作成し、指定したスイッチ・変数の状態をセーブデータ間で共有します。
+<dsPassiveSkill>
+パッシブスキルを実装するプラグイン ver1.5.1
+<gameoverRevive>
+全滅した際に、いったんゲームオーバー画面を
+表示させてから復活することができます
+<notWinAction>
+特定のスイッチがONになっているときに勝利のポーズを
+とらなくすることができます。
+<セーブ画面>
+セーブ/ロード画面のレイアウトを変更します。
+導入前にヘルプを読むことを推奨
+<フェイスピクチャー>
+文章の表示で指定した顔グラフィックと同名の画像ファイルを顔グラの代わりに表示する
+<店員ショップ>
+ショップ画面のレイアウトを変更します。
+<素手禁止>
+装備画面で武器の装備無しを禁止する
+<装備画面レイアウト変更>
+装備画面のレイアウトを変更します。
